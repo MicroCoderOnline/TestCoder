@@ -3,7 +3,7 @@
     "width": 900,
     "height": 450,
     "duration": 3000,       
-    "interval": 5000,      
+    "interval": 1000,      
     "bg_color": "blue",     
     "text_color": "white" 
   }  
