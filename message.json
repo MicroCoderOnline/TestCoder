@@ -1,0 +1,9 @@
+{
+    "message": "Hello, this is the updated message!",
+    "width": 500,
+    "height": 250,
+    "duration": 5000,       
+    "interval": 10000,      
+    "bg_color": "blue",     
+    "text_color": "white" 
+  }  
